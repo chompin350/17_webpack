@@ -1,4 +1,5 @@
-# deploy
+# Desafío - Compilación y despliegue utilizando 
+Webpack
 
 ## Project setup
 ```
@@ -7,12 +8,12 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run wp-dev
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run wp-prod
 ```
 
 ### Lints and fixes files
@@ -20,5 +21,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### LUIS AVILES SANTOS
